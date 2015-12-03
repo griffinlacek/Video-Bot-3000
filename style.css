@@ -1,0 +1,174 @@
+html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, menu, nav, section, time, mark, audio, video, details, summary {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font-weight: normal;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+article, aside, figure, footer, header, nav, section, details, summary {display: block;}
+
+body {
+	background: #171717;
+	color: #6f6f6f;
+	font: 16px 'Raleway', Helvetica, Verdana, Arial;
+}
+
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	color: #CDDBDE;
+	margin-top: 20px;
+	font-size: 90px;
+	font-family: 'Exo 2', sans-serif;
+	letter-spacing: -2px;
+	text-shadow: -3px 2px 0 #6f6f6f;
+}
+
+.botbox {
+	margin: 20px 0px;
+	width: 800px;
+	height: 20px;
+	background: #6f6f6f;
+	font: 14px 'Lucida Console', Monaco, monospace;
+	text-align: left;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #ccd9d8;
+}
+
+.bottext {
+	margin-top: 3.5px;
+	letter-spacing: -.5px;
+	color: #F2F2F2;
+
+}
+
+.botoutput {
+	position: relative;
+}
+
+.categories {
+	margin: 25px 0px;
+}
+
+h2 {
+	font-size: 20px;
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+	margin: 25px 0px;
+}
+
+nav ul {
+	width: 800px;
+}
+
+nav ul li {
+	list-style: none;
+	float: left;
+}
+
+nav ul li a {
+	display: block;
+	text-align: center;
+	height: 50px;
+	width: 160px;
+	line-height: 55px;
+	font-size: 20px;
+	color: #262626;
+	
+	text-decoration: none;
+	
+}
+
+nav a:hover {
+	color: #F2F2F2;
+}
+
+.music {
+	background: #0A7B83;
+}
+
+.music:hover {
+	background: #476B73;
+}
+
+.comedy {
+	background: #2AA876;
+}
+
+.comedy:hover {
+	background: #26966A;
+}
+
+.animation {
+	background: #FFD265;
+}
+
+.animation:hover {
+	background: #EEB75D;
+}
+
+.travel {
+	background: #F19C65;
+}
+
+.travel:hover {
+	background: #E0915E;
+}
+
+.sports {
+	background: #CE533D;
+}
+
+.sports:hover {
+	background: #B84A36;
+}
+
+
+#video {
+	margin: 25px 0px;
+}
+
+.share {
+	margin: 0px auto;
+}
+
+.share ul li {
+	list-style: none;
+	float: left;
+}
+
+.share ul li a {
+	display: block;
+	text-align: center;
+	height: 50px;
+	width: 160px;
+	line-height: 55px;
+	font-size: 20px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.like {
+	background: #2d5e8f;
+}
+
+.tweet {
+	background: #31b5d8;
+}
+
+footer {
+	margin: 25px 0px;
+	text-align: center;
+}
+
